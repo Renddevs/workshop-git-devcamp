@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # Developer-camp-Dilo-2019 
  
-=======
-# Hello Developer-camp-Dilo 
+ Day 1
+ - Introduce React and Node JS
+ - use git and github
 
-# mantap ren
-
-# mantap 
-
-# muantap 
->>>>>>> 5b84b002ed3ca349a3fe3adbd500ce9f15860a34
+ Day 2
+ - Learn about javascript
